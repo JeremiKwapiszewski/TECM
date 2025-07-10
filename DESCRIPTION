@@ -1,0 +1,10 @@
+Package: TECM
+Type: Package
+Title: Threshold Error Correction Model
+Version: 0.1.0
+Author: Jeremi Kwapiszewski
+Maintainer: The package maintainer <kwapiszewski.jeremi@gmail.com>
+Description: TECM estimation process
+License: 
+Encoding: UTF-8
+LazyData: true
