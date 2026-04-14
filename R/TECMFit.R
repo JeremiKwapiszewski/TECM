@@ -126,4 +126,3 @@ TECMFit <- function(y, X, lag = 0, model = c("linear", "tar", "mtar"),
     ECM_residuals = resid(ECM.model)
   ))
 }
-}
